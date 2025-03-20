@@ -1,1 +1,1 @@
-# Shopping-list
+Shopping list concept
